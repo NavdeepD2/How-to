@@ -229,7 +229,7 @@ phpinfo();
 HTTP/1.1 200 OK
 Date: Fri, 14 Aug 2020 19:48:52 GMT
 Server: Apache/2.4.37 (centos)
-X-Powered-By: PHP/8.0.0beta1
+X-Powered-By: 𝐏𝐇𝐏/𝟖.𝟎.𝟎𝐛𝐞𝐭𝐚𝟏 <<<<<<<<<<<<<<<<<<<<<< 
 Content-Type: text/html; charset=UTF-8
 
 [root@server ~]# 
