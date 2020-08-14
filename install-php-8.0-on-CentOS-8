@@ -1,5 +1,6 @@
 #!/bin/bash
 # https://the-d2.com/install-php-8-0-on-centos-8-rhel-8/
+# Video https://www.youtube.com/watch?v=VA0O6lIWdyY
 # NavdeepD2 - https://the-d2.com
 # Youtube 🔔 Subscribe https://www.youtube.com/channel/UCIN-BwNnZG0ojE22byWy07A?sub_confirmation=1 🔔
 # 💲 Donate:- Patreon https://www.patreon.com/OfficialTheD2 💲
@@ -233,3 +234,5 @@ X-Powered-By: 𝐏𝐇𝐏/𝟖.𝟎.𝟎𝐛𝐞𝐭𝐚𝟏 <<<<<<<<<<<<<<<<<<
 Content-Type: text/html; charset=UTF-8
 
 [root@server ~]# 
+
+# Keywords:- Install PHP 8.0 on CentOS 8,php80,php 8,php 8.0,Install PHP 8 on CentOS 8,How to install php 8 on centos 8,install php on centos 8,Install PHP on CentOS,Install PHP 8 on CentOS,centos php 8,centos php 8.0,PHP (LEMP) stack On CentOS 8,Linux Nginx MySQL PHP,install php 8 on linux,install php 8 linux,linux php 8,centos 8 php,centos 8 php version,centos 8 php-mysql,php latest version,php 8 download,php 8 install,install php,install php 8 beta
